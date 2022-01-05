@@ -39,7 +39,7 @@ h2{
     border-radius: 5px;
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;
 }
 #half-width-img-no2{
@@ -47,7 +47,7 @@ h2{
     padding-left: 0;
 }
 .dream-big{
-    background-image: url(images/dream-bg.png);
+    background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -55,7 +55,7 @@ h2{
     width: 90%;
 }
 .experience-area{
-    background-image: url(images/exp-bg.png);
+    background-image: url(Images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
